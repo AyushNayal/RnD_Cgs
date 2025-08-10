@@ -111,8 +111,6 @@ Honoring the original creator(s) and ideator(s) of this project.
 ## Additional documentation
 
   - [License](/LICENSE)
-  - [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
-  - [Security Policy](/.github/SECURITY.md)
   - [Contribution Guidelines](/.github/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
