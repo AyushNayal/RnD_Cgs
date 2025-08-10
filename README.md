@@ -92,7 +92,12 @@ _Now that the environment has been set up and configured to properly compile and
    pip install -r requirements.txt
    ```
 4. Running the Program
-   * Use main_Unweighted.py or main_weighted_CNN_layers.py to perform the image style transfer and edit the path of the content as well as style image in the python files to your respective file paths.
+   * Use main_unweighted.py or main_weighted_CNN_layers.py to perform the image style transfer and edit the path of the content as well as style image in the python files to your respective file paths.
+  
+  ```sh
+  python main_unweighted.py
+  python main_weighted_CNN_layers.py
+  ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
