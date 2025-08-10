@@ -79,14 +79,13 @@ _Now that the environment has been set up and configured to properly compile and
    ```sh
    git clone https://github.com/cgs-iitkgp/Neural_Style_Transfer.git
    ```
-2. Make the script executable
+2. Install Python and Pip
+   1.Download installer from: https://www.python.org/downloads/
+   2.Run it and make sure to tick "Add Python to PATH".
+   3.Check in terminal:
    ```sh
-   cd ./Neural_Style_Transfer
-   chmod +x ./Neural_Style_Transfer
-   ```
-3. Execute the script
-   ```sh
-   ./Neural_Style_Transfer
+    python --version
+    pip --version
    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
