@@ -80,9 +80,9 @@ _Now that the environment has been set up and configured to properly compile and
    git clone https://github.com/cgs-iitkgp/Neural_Style_Transfer.git
    ```
 2. Install Python and Pip
-   1.Download installer from: https://www.python.org/downloads/
-   2.Run it and make sure to tick "Add Python to PATH".
-   3.Check in terminal:
+   * Download installer from: https://www.python.org/downloads/
+   * Run it and make sure to tick "Add Python to PATH".
+   * Check in terminal:
    ```sh
     python --version
     pip --version
