@@ -66,14 +66,29 @@ To set up a local instance of the application, follow the steps below.
 ### Prerequisites
 The following dependencies are required to be installed for the project to function properly:
 <!-- UPDATE -->
-* Python
-* Pytroch
-* Torchvision
-* Matplotlib
+* Python 3.10.16
+* Pip 25.1
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Installation
 
+_Now that the environment has been set up and configured to properly compile and run the project, the next step is to install and configure the project locally on your system._
+<!-- UPDATE -->
+1. Clone the repository
+   ```sh
+   git clone https://github.com/cgs-iitkgp/Neural_Style_Transfer.git
+   ```
+2. Make the script executable
+   ```sh
+   cd ./Neural_Style_Transfer
+   chmod +x ./Neural_Style_Transfer
+   ```
+3. Execute the script
+   ```sh
+   ./Neural_Style_Transfer
+   ```
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
