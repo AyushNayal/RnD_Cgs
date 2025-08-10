@@ -51,7 +51,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+    <img width="80%" alt="image" src="[https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png](https://github.com/AyushNayal/RnD_Cgs/blob/main/Examples/example.jpg)">
   </a>
 </div>
 
@@ -73,23 +73,6 @@ The following dependencies are required to be installed for the project to funct
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Installation
-
-_Now that the environment has been set up and configured to properly compile and run the project, the next step is to install and configure the project locally on your system._
-<!-- UPDATE -->
-1. Clone the repository
-   ```sh
-   git clone https://github.com/cgs-iitkgp/PROJECT_NAME.git
-   ```
-2. Make the script executable
-   ```sh
-   cd ./PROJECT_NAME
-   chmod +x ./PROJECT_NAME
-   ```
-3. Execute the script
-   ```sh
-   ./PROJECT_NAME
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -97,7 +80,7 @@ _Now that the environment has been set up and configured to properly compile and
 <!-- USAGE EXAMPLES -->
 ## Usage
 <!-- UPDATE -->
-Use this space to show useful examples of how this project can be used. Additional screenshots, code examples and demos work well in this space.
+This is an example of the style transfer with the content, style and target image.
 
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/Neural_Style_Transfer">
