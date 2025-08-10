@@ -2,15 +2,10 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-import numpy as np
-
 from PIL import Image
 import matplotlib.pyplot as plt
-
 import torchvision.transforms as transforms
 from torchvision.models import vgg19, VGG19_Weights
-
-import copy
 
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -335,4 +330,3 @@ plt.show(block = False)
 plt.figure(figsize=(12, 6))
 img_show(tensor_to_img(output), 'Output Image')    
 plt.show()
-plt.imsave(r'C:\Users\ayush\RnD_Cgs\output_image.jpg', tensor_to_img(output))
