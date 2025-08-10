@@ -84,7 +84,7 @@ This is an example of the style transfer with the content, style and target imag
 
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/Neural_Style_Transfer">
-    <img width="80%" alt="image" src="https://github.com/AyushNayal/RnD_Cgs/blob/main/Examples/example.jpg">
+    <img width="80%" alt="image" src="https://github.com/AyushNayal/RnD_Cgs/blob/main/Examples/example_2.jpg">
   </a>
 </div>
 
