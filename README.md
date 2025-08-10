@@ -84,8 +84,8 @@ _Now that the environment has been set up and configured to properly compile and
    * Run it and make sure to tick "Add Python to PATH".
    * Check in terminal:
    ```sh
-    python --version
-    pip --version
+   python --version
+   pip --version
    ```
 3. Install Dependencies
    ```sh
